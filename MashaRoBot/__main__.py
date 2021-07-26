@@ -103,7 +103,7 @@ buttons = [
 
 
 HELP_STRINGS = """
-Hello am [SYLVIE](https://telegra.ph/file/e387606768e113e61d8e3.jpg) and here are my helpful commands let's go through this and if you have any doubts ask at my support group."""
+Hello am [KGF](https://telegra.ph/file/e387606768e113e61d8e3.jpg) and here are my helpful commands let's go through this and if you have any doubts ask at my support group."""
 
 
 DONATE_STRING = """[Creator](https://t.me/ITzMeZeus)"""
