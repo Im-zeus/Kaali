@@ -86,7 +86,7 @@ buttons = [
             text="𝘈𝘋𝘋 𝘔𝘌 𝘛𝘖 𝘠𝘖𝘜𝘙 𝘎𝘙𝘖𝘜𝘗", url="t.me/MissSylvie_bot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="𝘖𝘞𝘕𝘌𝘙", url="https://t.me/ITzMeZeus"),
+        InlineKeyboardButton(text="𝘊𝘙𝘌𝘈𝘛𝘖𝘙", url="https://t.me/ITzMeZeus"),
         InlineKeyboardButton(
             text="𝘚𝘜𝘗𝘗𝘖𝘙𝘛", url=f"https://t.me/{SUPPORT_CHAT}"
         ),
@@ -103,7 +103,7 @@ buttons = [
 
 
 HELP_STRINGS = """
-Hello am [SYLVIE](https://telegra.ph/file/a5d650e91230178a1b5b3.jpg) and here are my helpful commands let's go through this and if you have any doubts ask at my support group."""
+Hello am [SYLVIE](https://telegra.ph/file/e387606768e113e61d8e3.jpg) and here are my helpful commands let's go through this and if you have any doubts ask at my support group."""
 
 
 DONATE_STRING = """[Creator](https://t.me/ITzMeZeus)"""
@@ -386,7 +386,7 @@ def Source_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..🤗 I'm *SYLVIE* THIS BOT CURRENTLY A CLOSED SOURCE CONATCT DEV FOR REPO
+            text=""" Hi..🤗 I'm *KGF BOT* THIS BOT CURRENTLY A CLOSED SOURCE CONATCT DEV FOR REPO
                  \nHere is the [DEV](https://t.me/ITzMeZeus) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=False,
