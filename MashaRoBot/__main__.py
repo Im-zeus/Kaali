@@ -83,7 +83,7 @@ HELLO [👋](https://telegra.ph/file/a5d650e91230178a1b5b3.jpg). I AM *SYLVIE*
 buttons = [
     [
         InlineKeyboardButton(
-            text="𝘈𝘋𝘋 𝘔𝘌 𝘛𝘖 𝘠𝘖𝘜𝘙 𝘎𝘙𝘖𝘜𝘗", url="t.me/MissSylvie_bot?startgroup=true"),
+            text="𝘈𝘋𝘋 𝘔𝘌 𝘛𝘖 𝘠𝘖𝘜𝘙 𝘎𝘙𝘖𝘜𝘗", url="t.me/kgf_robot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="𝘊𝘙𝘌𝘈𝘛𝘖𝘙", url="https://t.me/ITzMeZeus"),
@@ -94,7 +94,7 @@ buttons = [
     [
         InlineKeyboardButton(text="𝘜𝘗𝘋𝘈𝘛𝘌𝘚", url="https://t.me/zabotz"),
         
-        InlineKeyboardButton(text="𝘎𝘉𝘈𝘕 𝘓𝘖𝘎𝘚", url="https://t.me/Sylvie_logs"),
+        InlineKeyboardButton(text="𝘎𝘉𝘈𝘕 𝘓𝘖𝘎𝘚", url="https://t.me/KGF_GBAN_LOGS"),
     ], 
     [
         InlineKeyboardButton(text="𝘏𝘌𝘓𝘗 & 𝘊𝘖𝘔𝘔𝘈𝘕𝘋𝘚", callback_data="help_back"),
